@@ -15,12 +15,8 @@ I’m currently seeking a **6-month end-of-studies internship starting in Februa
 ### Frontend and backend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Ionic-1976D2?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=react,angular,spring,flask,fastapi" alt="React, Angular, Spring, Flask and FastAPI" />
+  <img src="https://skillicons.dev/icons?i=ionic" alt="Ionic" width="48" height="48" />
 </p>
 
 ### Databases, DevOps and machine learning
