@@ -15,7 +15,7 @@ I’m currently seeking a **6-month end-of-studies internship starting in Februa
 ### Frontend and backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ionic,spring,flask,fastapi" alt="React, Angular, Ionic, Spring, Flask and FastAPI" />
+  <img src="https://skillicons.dev/icons?i=react,angular,spring,flask,fastapi" alt="React, Angular, Spring, Flask and FastAPI" />
 </p>
 
 ### Databases, DevOps and machine learning
